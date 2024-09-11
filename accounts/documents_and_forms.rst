@@ -13,7 +13,7 @@ Use this form to request a Director's Discretionary (DD) Project. Select
 "OLCF Director's Discretionary Program" from the drop down menu.
 
 `Principal Investigator
-Agreement <https://www.olcf.ornl.gov/wp-content/accounts/PI_Agreement.pdf>`_ The Oak Ridge
+Agreement <https://www.olcf.ornl.gov/wp-content/uploads/PI_Agreement2024.pdf>`_ The Oak Ridge
 Leadership Computing Facility must have a signed copy of this form on
 file from the project's principal investigator(s) before any accounts
 for the project will be processed.
