@@ -19,7 +19,7 @@ file from the project's principal investigator(s) before any accounts
 for the project will be processed.
 
 `Industry Principal Investigator's
-Agreement <https://www.olcf.ornl.gov/wp-content/accounts/Industry_PI_Agreement.pdf>`_ The Oak
+Agreement <https://www.olcf.ornl.gov/wp-content/uploads/Industry_PI_Agreement2024.pdf>`_ The Oak
 Ridge Leadership Computing Facility must have a signed copy of this form
 on file from the project's principal investigator(s) before any accounts
 for the project will be processed.
